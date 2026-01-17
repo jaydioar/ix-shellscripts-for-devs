@@ -1,0 +1,24 @@
+{
+  "name": "ix-shellscripts-for-devs",
+  "version": "0.1.0",
+  "description": "some stuff for web and script development",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaydioar/ix-shellscripts-for-devs.git"
+  },
+  "keywords": [
+    "shell",
+    "scripts"
+  ],
+  "author": "Andreas John",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jaydioar/ix-shellscripts-for-devs/issues"
+  },
+  "homepage": "https://github.com/jaydioar/ix-shellscripts-for-devs#readme"
+}

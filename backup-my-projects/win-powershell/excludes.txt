@@ -1,0 +1,20 @@
+﻿# default for node.js projects
+node_modules/*
+.git/*
+*.log
+tmp/*
+.env
+.*.env
+.env.*
+dist/*
+*.cache/*
+*.bak
+
+# default for nextjs projects
+.next/*
+
+# default for astro projects
+.astro/*
+
+# default for python projects
+__pycache__/*
